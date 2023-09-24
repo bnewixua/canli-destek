@@ -7,6 +7,6 @@ discord: bnewixuaxx
 # Kurulum
 
 - Altyapıyı indirin
-- Config.json `dosyasını doldurun + 114 yetkili id girin`
+- Config.json `dosyasını doldurun + 114.satırdaki yetkili id` kısmını girin
 - Terminale `npm i` yazınız
 - Botu sunucunuza ekleyin ve kullanmaya başla
