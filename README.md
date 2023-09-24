@@ -1,4 +1,4 @@
 # canli-destek
-canlı destek sistemi
+Basit bir canlı destek sistemi bu sistem discord botları için yapıldı. Uzun zamandır altyapı yapamıyorum çünkü fikir bulamıyorum ondan böyle bir sistem yapıp paylaştım star atarsanız sevinirim. Kod sunucum yoktur.
 
-botun gelmesini istiyorsanız: https://discord.gg/gQgxEgv3
+discord: bnewixuaxx
